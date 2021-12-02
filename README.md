@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mominul Islam.
-- 👀 I’m interested in programming.
+- 👋 Hi, I’m Mominul Islam.
+- 👀 I’m interested in science, politics, economics and psychology.
 - 🌱 I’m currently pursuing to become a full-stack web developer. 
-
 
 <!---
 Levarenox/Levarenox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
